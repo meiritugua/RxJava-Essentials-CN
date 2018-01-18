@@ -1,6 +1,8 @@
 RxJava Essentials 中文翻译版
 =======
 
+> 本开源书 forked from [RxJava Essentials 中文翻译版](https://github.com/yuxingxin/RxJava-Essentials-CN)，作者为 [yuxingxin](https://github.com/yuxingxin)，欢迎大家 star 原作者的 [repo](https://github.com/yuxingxin/RxJava-Essentials-CN)，以便获得最新更新，谢谢！
+
 ![](images/rxjava.jpg)
 
 本书是对Ivan.Morgillo所写一书的中文翻译版本，仅供交流学习使用，严禁商业用途。另外推荐一本姊妹篇《Learning Reactive Programming》。
